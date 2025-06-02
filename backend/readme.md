@@ -23,8 +23,8 @@ A small FastAPI service that takes a cryptocurrency name or symbol and returns i
 
 1. **Clone the repo**  
    ```bash
-   git clone <your-fork-url>
-   cd <your-repo-folder>
+   git clone git@github.com:oliveiramnando/internship-challenge.git
+   cd internship-challenge
    ```
 
 2. **Create & activate a virtual environment**  
@@ -43,9 +43,6 @@ A small FastAPI service that takes a cryptocurrency name or symbol and returns i
    ```bash
    uvicorn main:app --reload
    ```
-
-5. **Visit Interactive Docs**  
-   Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser to see automatically generated Swagger UI.
 
 ## Usage Examples
 
